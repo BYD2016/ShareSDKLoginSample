@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_logo.png",
+        "source": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_auth_title_back.png",
+        "source": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_back_arr.png",
+        "source": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tpl_title_back_arrow.png",
+        "source": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\drawable-xhdpi\\tpl_title_back_arrow.png"
+    },
+    {
+        "merged": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checked.png",
+        "source": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_title_div.png",
+        "source": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tpl_logo.png",
+        "source": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\drawable-xhdpi\\tpl_logo.png"
+    }
+]

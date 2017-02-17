@@ -1,0 +1,7 @@
+#Fri Feb 17 11:30:28 CST 2017
+base.0=F\:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_971c73c54fb6ba89102e5acdcb3901b64c9cc069
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_436252d087e42f801974d1a6e40438ba64643c2e\\classes.dex
+base.1=F\:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_436252d087e42f801974d1a6e40438ba64643c2e
+file.0=F\:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_971c73c54fb6ba89102e5acdcb3901b64c9cc069\\classes.dex

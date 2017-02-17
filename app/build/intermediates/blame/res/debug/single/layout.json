@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_page.xml",
+        "source": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\layout\\register_page.xml"
+    },
+    {
+        "merged": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_page.xml",
+        "source": "F:\\ThirdSDK\\MobAPI\\v2.8.0\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\layout\\login_page.xml"
+    }
+]

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Douban-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ae40751af13e476b1a08bb2000e4471e2eafce9">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Douban-2.8.0_e6d40f2192d9e36761c32b13ca656e02af53eb6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-SinaWeibo-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0591b77be963ef98d6a3f2963624264a1071b36c">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.8.0_df20358d4a1cf4c2ff86cd4c21cf6b5d8b70e62f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Wechat-Favorite-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f87b958a80464686534d4cd2a823f24013f3d6a6">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Favorite-2.8.0_c104ff06f22fd77446d3f4974a318df27ef63543\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-ShortMessage-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="347953ea4f4998c1169b09fb29cb8edbefaa632c">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-ShortMessage-2.8.0_38004188939a02fac32c3b7f85fb641386150b71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Wechat-Core-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d080e6521d4e4a323cef0553631254721ca6ba6">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.8.0_bde56fc243bceccf01c6a9af5443791b0ddc7d65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\MobCommons-2016.1222.1756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c70be90d61b9248814972afbb3a93b448c8cba5">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2016.1222.1756_92c8afc640a60f1c3c41782a7d7b6ffec34b3082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Alipay-Core-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68643ba56a13874a72636dbad50f2c21c8f5f949">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Alipay-Core-2.8.0_5af4dad8a4fa2ce701e034db8319a0a5d1e09621\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Facebook-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d40d1e078e37961d1786ef24b74c7131f118cb1">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Facebook-2.8.0_77aecfb78d0f1a933e553defa31e682f85debe78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Yixin-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="221c9e3bce02b9890a293483734bfc221cae88ba">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Yixin-2.8.0_350558c01b081106ac36b791a3c78f8601ac3ec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5cc96abbf122e776806f0dde6371383778c9b6e">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_436252d087e42f801974d1a6e40438ba64643c2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Pinterest-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37529d4c42bfa8999a28c425a837375cec2e5a38">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Pinterest-2.8.0_50a4fdf87242b3501dd0244edefdd83a024272a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Yixin-Moments-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88db4fb4bb7ab88bc17ef4a62cba0fb0972974a7">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Yixin-Moments-2.8.0_19092ebe0ec15356bf25fc20859c7f421d4abd43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-KaiXin-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcabad53affeafec8a22fe9618db4e3281387202">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-KaiXin-2.8.0_aed1e68ebe54a695b06ab51e0a7e36dbf630e14b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Kakao-Core-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae91ae56e26ae25a5929abe596a52b09278432f6">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Kakao-Core-2.8.0_b1d4dedaa150336b68e754ce223b170798415175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Wechat-Moments-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfde3133a50ea48791f3dfaaec53f2554b349c13">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-2.8.0_af40738cda5eb8107289960a7f72207f1525a7f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Wechat-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5ea4582ea3c1342818cea8bd72303020a2e950f">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.8.0_cad667f41014f7bbb05a70da6e10a525b79a2168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Yixin-Core-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b46308b669f12dbd23c3d77fe161f8140ce45c96">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Yixin-Core-2.8.0_8c1806df3773ee24febbc87f31111fb51e5e9b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Instagram-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b9be8e1ee30efa5f39793b3d94dd8b534658aa0">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Instagram-2.8.0_f5e0c1d992f264b42fada83f14fc79e7fcb1cc82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-VKontakte-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="710169f5277ba8bcf98e1106dfb6f13eae8295b8">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-VKontakte-2.8.0_c331ad93fb4845c8919ad815d0e9ec978a7a92f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-KakaoStory-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd681282723ca6e5cde87269ff3f0323a7ab8644">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-KakaoStory-2.8.0_57c95447ae371346da03d109efe5a15351c64053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-GooglePlus-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0da6dbff4241467aa2945f928c0b4e71c934d608">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-GooglePlus-2.8.0_1230b936f1fe7ed408570ac6e5a2008f3c16cc24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Email-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65e0189e921753af7f3332c929a488ed33e9abd2">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Email-2.8.0_b8b99efb59d79de98fff7ea5ed6fb69cee97a623\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-KakaoTalk-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acc2442f0862a7e13e337525f1ecd7d6dac10ee5">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-KakaoTalk-2.8.0_cbe9f05b04cdee973ffb3ef796a1a3573cc136bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Instapaper-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="437b9bb67568fd381a9aa72343d3898ae2b2f292">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Instapaper-2.8.0_b92aa45387c55378ddfb1703a956308de6832653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-YouDao-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65da5bd0665506462edca2a5db93860b93e3ad37">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-YouDao-2.8.0_b2e29972135a10feee133c50f528e5373721de8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Flickr-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="daa69888368ba5d05e1b3d6055d2b3e11ae49f5c">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Flickr-2.8.0_36f701e6551e8b165f2a4ae0dfd8700d203c9478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Twitter-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb40a6e8322c707f5805f59730eeaa60085c5de2">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Twitter-2.8.0_fa2aa36bb1568de753de0e1abc99255dc7ab9c9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Dropbox-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="094a896782435d534e80f39c1effe4864cee4a9f">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Dropbox-2.8.0_bcd7dc06e6f7dcce433d8b771353e8bca20ca85f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Mingdao-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5c510eee9902d621d416cf1b2fd1737b5f1c953">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Mingdao-2.8.0_0b036f85ed2813de69e9e342744507132de13b09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-TencentWeibo-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe159f62dd077eba391e698fd46cab1138e6f2f">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-TencentWeibo-2.8.0_8f98af7f914845d72b9088fb8f7b3d246aa44cbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Foursquare-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1335d656a5f34972e10b05b88a4ef8c797f7ff33">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Foursquare-2.8.0_1756a3b4901105fd39c9e60f84a7dd032a82594c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Alipay-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48bde30c52e08bcd0dc31502d31784edde9e980a">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Alipay-2.8.0_35d7fa1a540e2118f03cc973780b531f15233c55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Pocket-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="471cce2274126f81b1fc53e72ff3649a4b4c4e1b">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Pocket-2.8.0_4e917309062676ff1d0916f8ffb4ab32c8ac2a6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\MobTools-2016.1222.1756.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea93b627c5c5dc8b68a00ee34ac49af67015cec4">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.1222.1756_0169ff6ff36a18fe480d94251ca3e82ff5b0df96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Tumblr-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97fedf820ce046e5ece826dd2d8f7d0688426e8e">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Tumblr-2.8.0_468601546168380034a661de01467b1c64695cc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-QQ-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3277831e53b1ee429bbfae0bf31a11d342f3a62">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.8.0_78a4ec1dda306ac60902903696dbce77988c3f61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-FacebookMessenger-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="366710fb6f7471a375c0fbdf02ec3df201bcc9f3">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-FacebookMessenger-2.8.0_441452a7a74092327486a4d2f1fb89a69e66c162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Renren-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08f4cc4f6d0f36607b8f425d2e99efd703dbd973">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Renren-2.8.0_3bc8cbaac22b3a4c74a9b33528391484f76ae22c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-WhatsApp-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="711521ba29274540a988471e0117c4818bb9f306">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-WhatsApp-2.8.0_4b9e7b9aa2e11023aec549b3d6eb0b3441023eed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Linkedin-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f871366c784ee669c03b888d25dfa6e7d076aa0">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Linkedin-2.8.0_598ca74e13839e35e5d78fefbbbff4f028e18134\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Line-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8235625d0f252bed539b1910c357c3cb29686f0c">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Line-2.8.0_2e0fa738b8af7f0757b1371fe63fac45e09908a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Alipay-Moments-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62c97d296e196f17617a0e04e4be2b5612b0d6d8">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Alipay-Moments-2.8.0_ce301ff44d5ded321a82c17342ccd8701064d71e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Core-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e9280ac9c4af8ddf414a5a1ccaf9d113841b3f8">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.8.0_5242287efad177b0991f316631848111ebca9bf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-Evernote-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bd02134810e2205c326365a32794e5c6dc9d372">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Evernote-2.8.0_04e863e8c1ad459d2f926a4760860452b7edc5b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\libs\ShareSDK-QZone-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c48f8a9e697255a38a0b16842b307fcf2e0fe1b1">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.8.0_29af3e597724fef3469f9e9829a38eb1d7bc907a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="008022b0955d9b2205556a171dad5d116f08e8ea">
+        <dex dex="F:\ThirdSDK\MobAPI\v2.8.0\ShareSDK for Android Sample\ShareSDKLoginSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_971c73c54fb6ba89102e5acdcb3901b64c9cc069\classes.dex" />
+    </item>
+
+</items>
